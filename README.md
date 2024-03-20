@@ -1,0 +1,2 @@
+# melody-rnn
+melody generator 
